@@ -4,7 +4,7 @@ This repo is an automated analysis pipeline for the experimental procedure descr
 # Usage
 1. Ensure Jupyter notebooks are set up on your system
 2. Clone repo 
-3. Install requirements in requirements.txt (ideally within a conda virtual environment using "conda create --name <\env> --file requirements.txt", but "pip install -r requirements.txt" can also be used)
+3. Install requirements in requirements.txt (ideally within a conda virtual environment using "conda create --name <env> --file requirements.txt", but "pip install -r requirements.txt" can also be used)
 
 # Authors
 - Andrew Balch
