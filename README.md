@@ -7,4 +7,4 @@ This repo is an automated analysis pipeline for the experimental procedure descr
 3. Install requirements in requirements.txt (ideally within a conda virtual environment using "conda create --name <env> --file requirements.txt", but "pip install -r requirements.txt" can also be used)
 
 # Authors
-- Andrew Balch
+- Andrew Balch, Kyan Yang
